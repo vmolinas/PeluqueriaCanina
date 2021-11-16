@@ -1,0 +1,7 @@
+Nombre BD: tiendaCanina
+Usuario: canina
+Contraseña: 12345
+
+Puerto MySQL: 3307
+Puerto Apache Web Server: 800
+localhost:800/phpmyadmin/

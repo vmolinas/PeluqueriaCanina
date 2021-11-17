@@ -65,8 +65,6 @@ public class Pantalla extends javax.swing.JFrame {
 
         jLabelObservaciones.setText("Observaciones :");
 
-        txtCliente.setEditable(false);
-
         cmbAlergico.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "-", "Sí", "No" }));
 
         cmbAtencionEspecial.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "-", "Sí", "No" }));
